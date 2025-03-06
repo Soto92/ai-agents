@@ -24,3 +24,5 @@ export async function deepseekReview() {
 
   fs.writeFileSync("./__tests__/testAnalysis.md", tests, "utf-8");
 }
+
+deepseekReview();
