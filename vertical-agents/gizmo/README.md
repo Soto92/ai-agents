@@ -14,6 +14,10 @@ Unlike general-purpose agents, a vertical agent focuses on solving specific prob
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/0a6a69cc-8e11-4032-9ae5-81409446e2f3
+
 ## ✅ Requirements
 
 - Python 3.8+
