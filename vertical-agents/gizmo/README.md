@@ -34,18 +34,18 @@ uv venv
 uv venv activate
 ```
 
+or
+
+```
+.\.venv\Scripts\Activate.ps1
+```
+
 ### 2. Install dependencies
 
 You can install from `requirements.txt`:
 
 ```bash
 uv pip install -r requirements.txt
-```
-
-or
-
-```
-.\.venv\Scripts\Activate.ps1
 ```
 
 Or install directly:

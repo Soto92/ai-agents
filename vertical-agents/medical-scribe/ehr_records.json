@@ -1,0 +1,52 @@
+[
+  {
+    "patient_id": "12345",
+    "name": "John Doe",
+    "age": 42,
+    "condition": "Type 2 Diabetes",
+    "last_visit": "2025-07-10",
+    "notes": "Patient is responding well to treatment."
+  },
+  {
+    "patient_id": "67890",
+    "name": "Jane Smith",
+    "age": 35,
+    "condition": "Hypertension",
+    "last_visit": "2025-08-01",
+    "notes": "Blood pressure improving with new medication."
+  },
+  {
+    "id": 1755027781684,
+    "created_at": "2025-08-12T19:43:01Z",
+    "ehr": {
+      "patient": {
+        "name": null,
+        "age": 62,
+        "gender": null
+      },
+      "vitals": {
+        "temperature_c": 38.5,
+        "heart_rate_bpm": null,
+        "respiratory_rate_bpm": null,
+        "blood_pressure": null
+      },
+      "symptoms": [
+        "cough",
+        "fever"
+      ],
+      "medications": [
+        {
+          "name": "lisinopril",
+          "dose": "10 mg",
+          "frequency": "daily"
+        }
+      ],
+      "allergies": [
+        "penicillin"
+      ],
+      "assessment": null,
+      "plan": null,
+      "follow_up": null
+    }
+  }
+]

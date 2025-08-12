@@ -3,3 +3,4 @@ node_modules
 unit-tests-generator/.env
 vertical-agents/gizmo/.venv
 vertical-agents/gizmo/.env
+vertical-agents/medical-scribe/.env
