@@ -57,6 +57,10 @@ Type `exit` to quit the program.
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/288d7b85-478e-4f5a-9521-24e2d92a12f9
+
 ## Examples
 
 ### Example transcript input:
